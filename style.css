@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: rgb(130, 106, 251);
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
